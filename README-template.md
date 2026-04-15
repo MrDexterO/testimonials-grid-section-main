@@ -55,7 +55,7 @@ I will keep working to improve my understanding and application of responsive de
 ## Author
 
 - Frontend Mentor - [@MrDexterO](https://www.frontendmentor.io/profile/MrDexterO)
-- GitHub - [@MrDexterO](https://github.com/MrDexterO)
+- GitHub - [@MrDexterO](https://mrdextero.github.io/testimonials-grid-section-main/)
 
 
 ## Acknowledgments
